@@ -13,8 +13,8 @@ Heart failure is the main exhibition of Cardiovascular diseases, which occurs wh
 |creatinine\_phosphokinase | Continuous| Level of the CPK enzyme in the blood (mcg/L)|
 |ejection\_fraction | Continuous|Percentage of blood leaving the heart at each contraction|
 |platelets | Continuous| Values of platelets in the blood (kiloplatelets/mL)|
-|serum\_creatinine | Continuous|Level of serum creatinine in the blood (mg/dL)|
-|serum\_sodium | Level of serum sodium in the blood (mEq/L)|
+|serum\_creatinine | Continuous| Level of serum creatinine in the blood (mg/dL)|
+|serum\_sodium | Continuous| Level of serum sodium in the blood (mEq/L)|
 |time| Continuous|Follow-up period (days)|
 |anaemia | Factor|Decrease of red blood cells or hemoglobin (1 = yes, 0 = no)|
 |diabetes | Factor|If the patient had diabetes (1 = yes, 0 = no)|
